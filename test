@@ -1,0 +1,187 @@
+<Window x:Class="MaxTemp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MaxTemp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" ResizeMode="NoResize">
+	<Viewbox Margin="0,0,0,146">
+		
+		<Grid>
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="1*" />
+			</Grid.ColumnDefinitions>
+			<Grid.RowDefinitions>
+				<RowDefinition Height="1*" />
+				<RowDefinition Height="1*" />
+				<RowDefinition Height="1*" />
+				<RowDefinition Height="1*" />
+			</Grid.RowDefinitions>
+			
+			<Label Grid.Row="0" Name="lblAufforderung">Bitte klicken, um Temperaturen auszuwerten.</Label>
+			<Button Grid.Row="1" Name="btnAuswerten" Click="BtnAuswerten_Click">Click</Button>
+			<Label Grid.Row="2" Name="lblAusgabe"></Label>
+			<Canvas  Grid.Row="3" Name="LayoutRoot">
+
+			</Canvas>
+		</Grid>
+
+	</Viewbox>
+</Window>
+
+
+#################################################
+
+
+
+using System;
+using System.Collections;
+using System.Collections.Concurrent;
+using System.Collections.Generic;
+using System.Globalization;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+using static System.Net.Mime.MediaTypeNames;
+
+namespace MaxTemp
+{
+    /// <summary>
+    /// Interaktionslogik für MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        List<double> werte = new List<double>();
+        List<string> locations = new List<string>();
+        List<string> time = new List<string>();
+
+        List<string> locationsName = new List<string>();
+        public MainWindow()
+        {
+            InitializeComponent();
+            StreamReader reader = new StreamReader(File.OpenRead("./temps.csv"));
+
+
+            while (!reader.EndOfStream)
+            {
+                string [] line = reader.ReadLine().Split(',');
+                werte.Add(Convert.ToDouble(line[line.Length - 1].Replace('.', ',')));
+                locations.Add(line[0]);
+                time.Add(line[1]);
+                double temp = Convert.ToDouble(line[line.Length - 1].Replace('.', ','));
+                
+            }
+            reader.Close();
+
+            this.CreateButtons();
+        }
+
+        /// <summary>
+        /// Diese Routine (EventHandler des Buttons Auswerten) liest die Werte
+        /// zeilenweise aus der Datei temps.csv aus, merkt sich den höchsten Wert
+        /// und gibt diesen auf der Oberfläche aus.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void BtnAuswerten_Click(object sender, RoutedEventArgs e)
+        {
+
+            double maxTemp = werte.Max();
+
+            string location = locations[werte.IndexOf(maxTemp)];
+
+            string timeOFMaxTemp = time[werte.IndexOf(maxTemp)];
+            //Höchstwert auf Oberfläche ausgeben.
+            lblAusgabe.Content = $"{location} hat die maximal Temperatur von {maxTemp}°.\nDatum: {timeOFMaxTemp}";
+            
+        }
+
+        private void CreateButtons()
+        {
+            foreach (string location in locations)
+            {
+                if (locationsName.IndexOf(location) == -1)
+                {
+                    locationsName.Add(location);
+                }
+            }
+            int Y = 0;
+           foreach(string i in locationsName)
+                {
+                    Button btn = new Button();
+                    btn.Height = 15;
+                    btn.Width = 15;
+                    btn.FontSize = 8;
+                    btn.Content = i;
+                    Canvas.SetLeft(btn, Y);
+                    Y += 20;
+                    btn.Background = new SolidColorBrush(Colors.Orange);
+                    btn.Foreground = new SolidColorBrush(Colors.Black);
+                    btn.Click += ServerButtons_Click;
+                    LayoutRoot.Children.Add(btn);
+              
+                }
+           
+
+        }
+
+        private void ServerButtons_Click(object sender, RoutedEventArgs e)
+        {
+            var selectedButton = (e.Source as Button).Content.ToString();
+            List<string> data = new List<string>();
+
+            var headers = new List<string>() { "Location", "Date/time", "Temperature" };
+
+            StreamReader reader = new StreamReader(File.OpenRead("./temps.csv"));
+            Window ServerDetails = new Window();
+            ListView table = new ListView();
+            
+            headers.ForEach(x => table.Items.Add(x));
+
+            while (!reader.EndOfStream)
+            {
+                string[] line = reader.ReadLine().Split(',');
+                //string line = reader.ReadLine();
+                if (line.Contains(selectedButton))
+                {
+                    /*foreach (string item in line)
+                     {
+                        // data.Add(item);
+                         table.Items.Add(item);
+
+                     }*/
+                    table.Items.Add($"{line[0]}----{line[1]}----{line[2]}");
+
+                    Console.WriteLine(line);
+                }
+            }
+            
+            reader.Close();
+
+           /*foreach(string item in data)
+           {
+                table.Items.Add(item);
+                
+           }*/
+
+            ServerDetails.Content = table;
+
+           ServerDetails.Show();
+
+        }
+            
+
+    }
+}
