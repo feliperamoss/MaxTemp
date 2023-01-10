@@ -1,0 +1,210 @@
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.AssemblyReference.cache
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MainWindow.g.cs
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MaxTemp_Content.g.cs
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MaxTemp_MarkupCompile.cache
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MaxTemp_MarkupCompile.lref
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\libSkiaSharp.dylib
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\temps.csv
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\MaxTemp.exe.config
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\MaxTemp.exe
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\MaxTemp.pdb
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\CommunityToolkit.Mvvm.dll
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\HarfBuzzSharp.dll
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\LiveChartsCore.dll
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\LiveChartsCore.SkiaSharpView.dll
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.dll
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.dll
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.Views.WPF.dll
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\System.Buffers.dll
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\System.Drawing.Common.dll
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\System.Memory.dll
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\CommunityToolkit.Mvvm.pdb
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\CommunityToolkit.Mvvm.xml
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\HarfBuzzSharp.xml
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\LiveChartsCore.xml
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\LiveChartsCore.SkiaSharpView.xml
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.xml
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.pdb
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.xml
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.Views.WPF.pdb
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.Views.WPF.xml
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\System.Buffers.xml
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\System.Memory.xml
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\DiagrammWindow.g.cs
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\App.g.cs
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\DiagrammWindow.baml
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MainWindow.baml
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MaxTemp.g.resources
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MaxTemp.Properties.Resources.resources
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.GenerateResource.cache
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.CoreCompileInputs.cache
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.CopyComplete
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MaxTemp.exe
+C:\Users\Envy\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MaxTemp.pdb
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\libSkiaSharp.dylib
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\temps.csv
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\MaxTemp.exe.config
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\MaxTemp.exe
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\MaxTemp.pdb
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\CommunityToolkit.Mvvm.dll
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\HarfBuzzSharp.dll
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\LiveChartsCore.dll
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\LiveChartsCore.SkiaSharpView.dll
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.dll
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.dll
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.Views.WPF.dll
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\System.Buffers.dll
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\System.Drawing.Common.dll
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\System.Memory.dll
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\CommunityToolkit.Mvvm.pdb
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\CommunityToolkit.Mvvm.xml
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\HarfBuzzSharp.xml
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\LiveChartsCore.xml
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\LiveChartsCore.SkiaSharpView.xml
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.xml
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.pdb
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.xml
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.Views.WPF.pdb
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.Views.WPF.xml
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\System.Buffers.xml
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\System.Memory.xml
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.AssemblyReference.cache
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\DiagrammWindow.g.cs
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MainWindow.g.cs
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\App.g.cs
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MaxTemp_Content.g.cs
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MaxTemp_MarkupCompile.cache
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MaxTemp_MarkupCompile.lref
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\DiagrammWindow.baml
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MainWindow.baml
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MaxTemp.g.resources
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MaxTemp.Properties.Resources.resources
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.GenerateResource.cache
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.CoreCompileInputs.cache
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.CopyComplete
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MaxTemp.exe
+C:\Users\Emil Popov\Source\Repos\tkspgl\MaxTemp_Projekt\MaxTemp\MaxTemp\obj\Debug\MaxTemp.pdb
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\MaxTemp.exe
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\libSkiaSharp.dylib
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\temps.csv
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\MaxTemp.exe.config
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\CommunityToolkit.Mvvm.dll
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\HarfBuzzSharp.dll
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\LiveChartsCore.dll
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\LiveChartsCore.SkiaSharpView.dll
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.dll
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.dll
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.Views.WPF.dll
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\System.Buffers.dll
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\System.Drawing.Common.dll
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\System.Memory.dll
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\CommunityToolkit.Mvvm.pdb
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\CommunityToolkit.Mvvm.xml
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\HarfBuzzSharp.xml
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\LiveChartsCore.xml
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\LiveChartsCore.SkiaSharpView.xml
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.xml
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.pdb
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.xml
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.Views.WPF.pdb
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\SkiaSharp.Views.WPF.xml
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\System.Buffers.xml
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\System.Memory.xml
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.AssemblyReference.cache
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.SuggestedBindingRedirects.cache
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\obj\Debug\DiagrammWindow.g.cs
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\obj\Debug\MainWindow.g.cs
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\obj\Debug\App.g.cs
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\obj\Debug\MaxTemp_Content.g.cs
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\obj\Debug\MaxTemp_MarkupCompile.cache
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\obj\Debug\MaxTemp_MarkupCompile.lref
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\obj\Debug\DiagrammWindow.baml
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\obj\Debug\MainWindow.baml
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\obj\Debug\MaxTemp.g.resources
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\obj\Debug\MaxTemp.Properties.Resources.resources
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.GenerateResource.cache
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.CoreCompileInputs.cache
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.CopyComplete
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\obj\Debug\MaxTemp.exe
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\obj\Debug\MaxTemp.pdb
+C:\Users\rfeli\Downloads\MaxTemp_Projekt-new\MaxTemp_Projekt-main\MaxTemp\MaxTemp\bin\Debug\MaxTemp.pdb
